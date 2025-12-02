@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 public class Main {
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
 
         String[] lista = {"Manzana", "Pera", "Uva", "Kiwi"};
 
@@ -13,5 +13,5 @@ public class Main {
             dialog.setLocationRelativeTo(null);
             dialog.setVisible(true);
         });
-    }
+    }*/
 }
