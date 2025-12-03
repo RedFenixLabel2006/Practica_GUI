@@ -85,10 +85,10 @@ public class Eleccion extends JDialog {
         dispose();
     }
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         Eleccion dialog = new Eleccion();
         dialog.pack();
         dialog.setVisible(true);
         System.exit(0);
-    }
+    }*/
 }

@@ -14,4 +14,11 @@ public class Main {
             dialog.setVisible(true);
         });
     }*/
+    /*public static void main(String[] args) {
+        Eleccion dialog = new Eleccion();
+        dialog.pack();
+        dialog.setLocationRelativeTo(null);
+        dialog.setVisible(true);
+
+    }*/
 }
